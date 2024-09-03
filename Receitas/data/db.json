@@ -1,0 +1,197 @@
+{
+  "pratos": [
+    {
+      "id": "0",
+      "nome": "Spaghetti Carbonara",
+      "img": "https://th.bing.com/th/id/OIP.3MJODhMHPQg6v11AKki79QHaFj?w=259&h=194&c=7&r=0&o=5&pid=1.7",
+      "descricao": "Massa italiana com molho cremoso de ovo, queijo parmesão, bacon e pimenta-do-reino.",
+      "tipo": [
+        {
+          "label": "Prato Principal",
+          "value": "Prato Principal"
+        }
+      ],
+      "tempo_preparo": "20",
+      "beneficios_destaques": "Feito com ingredientes frescos e queijo parmesão autêntico."
+    },
+    {
+      "id": "1",
+      "nome": "Salada Caesar",
+      "img": "https://th.bing.com/th/id/R.7b552d5757aecdab52d1e2dec0a3b707?rik=xhI8SAiXAuqnpA&pid=ImgRaw&r=0",
+      "descricao": "Salada com alface, croutons, queijo parmesão, peito de frango grelhado e molho Caesar.",
+      "tipo": [
+        {
+          "label": "Prato Principal",
+          "value": "Prato Principal"
+        },
+        {
+          "label": "Entrada",
+          "value": "Entrada"
+        },
+        {
+          "label": "Sobremesa",
+          "value": "Sobremesa"
+        },
+        {
+          "label": "Aperitivo",
+          "value": "Aperitivo"
+        },
+        {
+          "label": "Salada",
+          "value": "Salada"
+        },
+        {
+          "label": "Sopa",
+          "value": "Sopa"
+        }
+      ],
+      "tempo_preparo": "15",
+      "beneficios_destaques": "Opção leve e rica em proteínas."
+    },
+    {
+      "id": "2",
+      "nome": "Tiramisu",
+      "img": "https://th.bing.com/th/id/OIP.HOVq4czacnLucvOf64bS0wHaEm?w=275&h=180&c=7&r=0&o=5&pid=1.7",
+      "descricao": "Sobremesa italiana com camadas de biscoito champagne, café expresso e mascarpone.",
+      "tipo": [
+        {
+          "label": "Sobremesa",
+          "value": "Sobremesa"
+        }
+      ],
+      "tempo_preparo": "30",
+      "beneficios_destaques": "Sobremesa clássica com sabores autênticos e delicados."
+    },
+    {
+      "id": "3",
+      "nome": "Bruschetta de Tomate",
+      "img": "https://th.bing.com/th/id/OIP.uhOH_iZXX0adZrqlSjhpbgHaE8?w=300&h=200&c=7&r=0&o=5&pid=1.7",
+      "descricao": "Pão italiano tostado coberto com tomates picados, manjericão e azeite de oliva.",
+      "tipo": [
+        {
+          "label": "Entrada",
+          "value": "Entrada"
+        },
+        {
+          "label": "Aperitivo",
+          "value": "Aperitivo"
+        }
+      ],
+      "tempo_preparo": "10",
+      "beneficios_destaques": "Leve e refrescante, ideal para começar a refeição."
+    },
+    {
+      "id": "4",
+      "nome": "Ceviche de Salmão",
+      "img": "https://th.bing.com/th/id/OIP.nAdxRUdUIEAFZBvyllFV0gHaE8?w=260&h=180&c=7&r=0&o=5&pid=1.7",
+      "descricao": "Peixe salmão marinado em suco de limão, com cebola roxa, coentro e pimenta.",
+      "tipo": [
+        {
+          "label": "Entrada",
+          "value": "Entrada"
+        },
+        {
+          "label": "Prato Principal",
+          "value": "Prato Principal"
+        }
+      ],
+      "tempo_preparo": "15",
+      "beneficios_destaques": "Prato fresco e saboroso, rico em ômega-3."
+    },
+    {
+      "id": "5",
+      "nome": "Panacotta de Baunilha",
+      "img": "https://th.bing.com/th/id/OIP.T2kh7En6LHXUzNtCFSfPwwHaE8?w=259&h=180&c=7&r=0&o=5&pid=1.7",
+      "descricao": "Sobremesa cremosa à base de creme de leite e baunilha, servida com coulis de frutas vermelhas.",
+      "tipo": [
+        {
+          "label": "Sobremesa",
+          "value": "Sobremesa"
+        }
+      ],
+      "tempo_preparo": "20",
+      "beneficios_destaques": "Delicada e suave, com um toque de frutas frescas."
+    },
+    {
+      "id": "",
+      "nome": "Macarrão",
+      "img": "",
+      "descricao": "Macarrão",
+      "tipo": [
+        {
+          "label": "Prato Principal",
+          "value": "Prato Principal"
+        },
+        {
+          "label": "Entrada",
+          "value": "Entrada"
+        },
+        {
+          "label": "Sobremesa",
+          "value": "Sobremesa"
+        },
+        {
+          "label": "Aperitivo",
+          "value": "Aperitivo"
+        },
+        {
+          "label": "Salada",
+          "value": "Salada"
+        },
+        {
+          "label": "Sopa",
+          "value": "Sopa"
+        }
+      ],
+      "tempo_preparo": "60",
+      "beneficios_destaques": "Macarrão"
+    },
+    {
+      "id": "9",
+      "nome": "Pão",
+      "img": "",
+      "descricao": "Pão",
+      "tipo": [
+        {
+          "label": "Prato Principal",
+          "value": "Prato Principal",
+          "id": ""
+        }
+      ],
+      "tempo_preparo": "20",
+      "beneficios_destaques": "pão"
+    }
+  ],
+  "tipos": [
+    {
+      "label": "Prato Principal",
+      "value": "Prato Principal",
+      "id": ""
+    },
+    {
+      "label": "Entrada",
+      "value": "Entrada",
+      "id": ""
+    },
+    {
+      "label": "Sobremesa",
+      "value": "Sobremesa",
+      "id": ""
+    },
+    {
+      "label": "Aperitivo",
+      "value": "Aperitivo",
+      "id": ""
+    },
+    {
+      "label": "Salada",
+      "value": "Salada",
+      "id": ""
+    },
+    {
+      "label": "Sopa",
+      "value": "Sopa",
+      "id": ""
+    }
+  ]
+}
